@@ -24,10 +24,17 @@
     line-height: 1;
     color: rgb(22, 1, 4);
     background-color: rgb(233, 238, 173);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
   }
   
   h1 {
-    font-size: 40px;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 10px;
   }
   
   .btn {
